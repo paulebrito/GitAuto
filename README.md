@@ -1,0 +1,2 @@
+# GitAuto
+Automation Test Scrips
